@@ -6,6 +6,8 @@ Palestras e workshops públicos
 
 ## 2024
 #### [PT-BR]: [Observabilidade: tudo (ou quase tudo) que você precisa saber sobre](https://edsoncelio.dev/observability-101/)
+#### [PT-BR]: [Do Código a Produção: workshop de pipelines com Gitlab CI/CD, Docker e AWS](https://secs2024.edsoncelio.dev/)
+
 
 ---
 
