@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Palestras e Workshops Públicos (Public Talks and Workshops)
 
 ## 2024
