@@ -15,3 +15,4 @@ Palestras e workshops públicos.
 
 ## 2023
 * HashiTalks Brazil: [Saindo do hello world para produção: O que se preocupar ao usar Terraform em ambientes de produção](https://www.youtube.com/live/P7r4a1vW1Pc?feature=shared&t=390)
+* DevOpsDays Fortaleza: [Saindo do hello world para produção: O que se preocupar ao usar Terraform em ambientes de produção](https://docs.google.com/presentation/d/1t6qH6REQK2NYPRKNR7Xk7asQceKls3SDPMbWsZhoUrk/edit?usp=sharing)
