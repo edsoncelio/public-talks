@@ -2,11 +2,12 @@
 layout: default
 ---
 
-Palestras e workshops públicos
+Palestras e workshops públicos.
 
 ## 2024
-#### [PT-BR]: [Observabilidade: tudo (ou quase tudo) que você precisa saber sobre](https://edsoncelio.dev/observability-101/)
-#### [PT-BR]: [Do Código a Produção: workshop de pipelines com Gitlab CI/CD, Docker e AWS](https://secs2024.edsoncelio.dev/)
+* GitTogether Fortaleza: [Observabilidade: tudo (ou quase tudo) que você precisa saber sobre](https://edsoncelio.dev/observability-101/)
+* Semana da Engenharia de Computação de Sobral: [Do Código a Produção: workshop de pipelines com Gitlab CI/CD, Docker e AWS](https://secs2024.edsoncelio.dev/)
+* Kubernetes Community Days (Virtual) São Paulo: [Quer começar a contribuir com o Kubernetes? As documentações podem ser um ótimo começo!]()
 
 
 ---
