@@ -13,4 +13,4 @@ Palestras e workshops públicos.
 ---
 
 ## 2023
-#### [PT-BR]: [Saindo do hello world para produção: O que se preocupar ao usar Terraform em ambientes de produção](https://www.youtube.com/live/P7r4a1vW1Pc?feature=shared&t=390)
+* HashiTalks Brazil: [Saindo do hello world para produção: O que se preocupar ao usar Terraform em ambientes de produção](https://www.youtube.com/live/P7r4a1vW1Pc?feature=shared&t=390)
