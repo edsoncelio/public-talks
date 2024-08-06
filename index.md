@@ -12,7 +12,6 @@ Palestras e workshops públicos.
 * Semana da Engenharia de Computação de Sobral: [Do Código a Produção: workshop de pipelines com Gitlab CI/CD, Docker e AWS](https://secs2024.edsoncelio.dev/)
 * Kubernetes Community Days (Virtual) São Paulo: [Quer começar a contribuir com o Kubernetes? As documentações podem ser um ótimo começo!](https://youtu.be/asnJsmnjUwY?feature=shared)
 
-
 ---
 
 ## 2023
@@ -23,3 +22,8 @@ Palestras e workshops públicos.
 
 ## 2022
 * Kubernetes Contributor Summit: [Localização das documentações do Kubernetes](https://edsoncelio.dev/public-talks/)
+
+---
+
+## 2019
+* DevOpsDays SP: [Aplicando práticas DevOps no desenvolvimento de aplicações embarcadas](https://www.youtube.com/watch?v=seh_ER3Mvkg&list=UULFNEdLWoI8tQKFauZ7Q5SRdQ&index=19)
