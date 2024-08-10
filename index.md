@@ -5,7 +5,8 @@ layout: default
 Palestras e workshops públicos.
 
 ## 2024
-* [Papo sobre Kubernetes](https://www.youtube.com/watch?v=c5osCVneo_s)
+* Esquenta DevOpsDays Fortaleza 2024: [Observabilidade com Ferramentas OpenSource](https://edsoncelio.dev/esquenta-dod-fortaleza-2024/1)
+* Engineering Sessions: [Kubernetes 2024](https://www.youtube.com/watch?v=c5osCVneo_s)
 * Dose de Telemetria: [Traduzindo o OpenTelemetry](https://www.youtube.com/watch?v=xjjsia70ULc)
 * Kubicast: [A Importância da Documentação em Ambientes Cloud Native e DevOps](https://getup.io/en/blog/kubicast-145)
 * GitTogether Fortaleza: [Observabilidade: tudo (ou quase tudo) que você precisa saber sobre](https://edsoncelio.dev/observability-101/)
