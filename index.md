@@ -5,6 +5,7 @@ layout: default
 Palestras e workshops públicos.
 
 ## 2024
+* AWS User Group Sergipe: [Precisamos falar sobre otimização de custos na AWS]()
 * Esquenta DevOpsDays Fortaleza 2024: [Observabilidade com Ferramentas OpenSource](https://edsoncelio.dev/esquenta-dod-fortaleza-2024/1)
 * Engineering Sessions: [Kubernetes 2024](https://www.youtube.com/watch?v=c5osCVneo_s)
 * Dose de Telemetria: [Traduzindo o OpenTelemetry](https://www.youtube.com/watch?v=xjjsia70ULc)
