@@ -2,7 +2,7 @@
 layout: default
 ---
 
-Palestras e workshops públicos.
+Palestras e workshops públicos (em maioria online).
 
 ## 2024
 * Meetup Online CNCF Group SC: [Como contribuir com o K8s - Feat Edson Ferreira e Mauren Berti](https://www.youtube.com/watch?v=ZT58-jBs0TY)
