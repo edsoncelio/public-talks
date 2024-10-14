@@ -5,7 +5,8 @@ layout: default
 Palestras e workshops públicos.
 
 ## 2024
-* AWS User Group Sergipe: [Precisamos falar sobre otimização de custos na AWS]()
+* Meetup Online CNCF Group SC: [Como contribuir com o K8s - Feat Edson Ferreira e Mauren Berti](https://www.youtube.com/watch?v=ZT58-jBs0TY)
+* AWS User Group Sergipe: [Precisamos falar sobre otimização de custos na AWS](https://www.youtube.com/watch?v=9jR8MyD8r64)
 * Esquenta DevOpsDays Fortaleza 2024: [Observabilidade com Ferramentas OpenSource](https://edsoncelio.dev/esquenta-dod-fortaleza-2024/1)
 * Engineering Sessions: [Kubernetes 2024](https://www.youtube.com/watch?v=c5osCVneo_s)
 * Dose de Telemetria: [Traduzindo o OpenTelemetry](https://www.youtube.com/watch?v=xjjsia70ULc)
