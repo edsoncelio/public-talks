@@ -4,6 +4,10 @@ layout: default
 
 Palestras e workshops públicos (em maioria online).
 
+## 2025
+* Introdução ao Falco e ecossistema no canal do Carlos Nogueira: [[PT-BR] Falco #warroom](https://www.youtube.com/watch?v=cH0FdyJ7eE0)
+* KCD Rio de Janeiro: [Automatic Threat Response Engine for Kubernetes](https://www.youtube.com/watch?v=djhrs6wEG6M)
+
 ## 2024
 * Meetup Online CNCF Group SC: [Como contribuir com o K8s - Feat Edson Ferreira e Mauren Berti](https://www.youtube.com/watch?v=ZT58-jBs0TY)
 * AWS User Group Sergipe: [Precisamos falar sobre otimização de custos na AWS](https://www.youtube.com/watch?v=9jR8MyD8r64)
