@@ -7,6 +7,7 @@ Palestras e workshops públicos (em maioria online).
 ## 2025
 * Introdução ao Falco e ecossistema no canal do Carlos Nogueira: [[PT-BR] Falco #warroom](https://www.youtube.com/watch?v=cH0FdyJ7eE0)
 * KCD Rio de Janeiro: [Automatic Threat Response Engine for Kubernetes](https://www.youtube.com/watch?v=djhrs6wEG6M)
+* CNCF ChatLoopBackOff (EN): [Episode 47 (external-secrets)](https://www.youtube.com/live/F1VRkXR1UG0?si=lbpbxw503dIEdguR)
 
 ## 2024
 * Meetup Online CNCF Group SC: [Como contribuir com o K8s - Feat Edson Ferreira e Mauren Berti](https://www.youtube.com/watch?v=ZT58-jBs0TY)
