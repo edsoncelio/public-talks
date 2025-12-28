@@ -19,7 +19,7 @@ My public contributions (talks/podcasts/workshops)
 * DevOpsDays Recife: [Da Imagem ao Cluster: Segurança em Containers na Prática]()
 * DevOpsDays Goiania: [Falco: O seu Melhor Amigo na Detecção de Ameaças em Containers](https://talks.devopsdays.org/devopsdays-goiania-2025/talk/YAPNB8/)
 * DevOpsDays São Paulo: [Linux Syscalls Uncovered: Observing Malicious Behavior in Cloud Native Workloads]()
-* AWS Summit São Paulo: [DEV302 | Dev chat | Segurança de containers: Do build ao runtime]()
+* AWS Summit São Paulo: [DEV302 - Devchat - Segurança de containers: Do build ao runtime]()
 
 ## 2024
 ### Portuguese (Brazil)
