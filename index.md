@@ -2,20 +2,24 @@
 layout: default
 ---
 
-Palestras e workshops públicos (em maioria online).
+My public contributions (talks/podcasts/workshops)
 
 ## 2025
-* Introdução ao Falco e ecossistema no canal do Carlos Nogueira: [[PT-BR] Falco #warroom](https://www.youtube.com/watch?v=cH0FdyJ7eE0)
-* KCD Rio de Janeiro: [Automatic Threat Response Engine for Kubernetes](https://www.youtube.com/watch?v=djhrs6wEG6M)
-* CNCF ChatLoopBackOff (EN): [Episode 47 (external-secrets)](https://www.youtube.com/live/F1VRkXR1UG0?si=lbpbxw503dIEdguR)
-* KCD Lima
-* KCD Bogotá
-* KCD Porto
-* DevOpsDays Recife
-* DevOpsDays Goiania
-* DevOpsDays São Paulo
+### Portuguese (Brazil)
+* en - CNCF ChatLoopBackOff (EN): [Episode 47 (external-secrets)](https://www.youtube.com/live/F1VRkXR1UG0?si=lbpbxw503dIEdguR)
+* en - KCD Lima
+* en - KCD Bogotá
+* en - KCD Porto
+* 
+### English
+* ptbr - Introdução ao Falco e ecossistema no canal do Carlos Nogueira: [[PT-BR] Falco #warroom](https://www.youtube.com/watch?v=cH0FdyJ7eE0)
+* ptbr - KCD Rio de Janeiro: [Automatic Threat Response Engine for Kubernetes](https://www.youtube.com/watch?v=djhrs6wEG6M)
+* ptbr - DevOpsDays Recife
+* pt-br - DevOpsDays Goiania
+* ptbr - DevOpsDays São Paulo
 
 ## 2024
+### Portuguese (Brazil)
 * Meetup Online CNCF Group SC: [Como contribuir com o K8s - Feat Edson Ferreira e Mauren Berti](https://www.youtube.com/watch?v=ZT58-jBs0TY)
 * AWS User Group Sergipe: [Precisamos falar sobre otimização de custos na AWS](https://www.youtube.com/watch?v=9jR8MyD8r64)
 * Esquenta DevOpsDays Fortaleza 2024: [Observabilidade com Ferramentas OpenSource](https://edsoncelio.dev/esquenta-dod-fortaleza-2024/1)
@@ -29,15 +33,18 @@ Palestras e workshops públicos (em maioria online).
 ---
 
 ## 2023
+### Portuguese (Brazil)
 * HashiTalks Brazil: [Saindo do hello world para produção: O que se preocupar ao usar Terraform em ambientes de produção](https://www.youtube.com/live/P7r4a1vW1Pc?feature=shared&t=390)
 * DevOpsDays Fortaleza: [Saindo do hello world para produção: O que se preocupar ao usar Terraform em ambientes de produção](https://docs.google.com/presentation/d/1t6qH6REQK2NYPRKNR7Xk7asQceKls3SDPMbWsZhoUrk/edit?usp=sharing)
 
 --- 
 
 ## 2022
+### Portuguese (Brazil)
 * Kubernetes Contributor Summit: [Localização das documentações do Kubernetes](https://edsoncelio.dev/public-talks/)
 
 ---
 
 ## 2019
+### Portuguese (Brazil)
 * DevOpsDays SP: [Aplicando práticas DevOps no desenvolvimento de aplicações embarcadas](https://www.youtube.com/watch?v=seh_ER3Mvkg&list=UULFNEdLWoI8tQKFauZ7Q5SRdQ&index=19)
