@@ -5,18 +5,20 @@ layout: default
 My public contributions (talks/podcasts/workshops)
 
 ## 2025
-### Portuguese (Brazil)
-* en - CNCF ChatLoopBackOff (EN): [Episode 47 (external-secrets)](https://www.youtube.com/live/F1VRkXR1UG0?si=lbpbxw503dIEdguR)
-* en - KCD Lima
-* en - KCD Bogotá
-* en - KCD Porto
-* 
 ### English
-* ptbr - Introdução ao Falco e ecossistema no canal do Carlos Nogueira: [[PT-BR] Falco #warroom](https://www.youtube.com/watch?v=cH0FdyJ7eE0)
-* ptbr - KCD Rio de Janeiro: [Automatic Threat Response Engine for Kubernetes](https://www.youtube.com/watch?v=djhrs6wEG6M)
-* ptbr - DevOpsDays Recife
-* pt-br - DevOpsDays Goiania
-* ptbr - DevOpsDays São Paulo
+* CNCF ChatLoopBackOff: [Episode 47 (external-secrets)](https://www.youtube.com/live/F1VRkXR1UG0?si=lbpbxw503dIEdguR)
+* KCD Lima: [Catch Supply Chain Threats in Your CI/CD Pipelines Before They Catch You](https://www.youtube.com/watch?v=JZM7MHXgBBg)
+* KCD Colombia: [Falco in Action: Runtime Security for Kubernetes
+](https://kcd-colombia-bogota-2025.sessionize.com/session/939646)
+* KCD Porto: [Linux Syscalls Uncovered: Observing Malicious Behavior in Cloud Native Workloads
+](https://kcd-porto-2025.sessionize.com/session/960988)
+
+### Portuguese (Brazil)
+* Introdução ao Falco e ecossistema no canal do Carlos Nogueira: [[PT-BR] Falco #warroom](https://www.youtube.com/watch?v=cH0FdyJ7eE0)
+* KCD Rio de Janeiro: [Automatic Threat Response Engine for Kubernetes](https://www.youtube.com/watch?v=djhrs6wEG6M)
+* DevOpsDays Recife: [Da Imagem ao Cluster: Segurança em Containers na Prática]()
+* DevOpsDays Goiania: [Falco: O seu Melhor Amigo na Detecção de Ameaças em Containers](https://talks.devopsdays.org/devopsdays-goiania-2025/talk/YAPNB8/)
+* DevOpsDays São Paulo: [Linux Syscalls Uncovered: Observing Malicious Behavior in Cloud Native Workloads]()
 
 ## 2024
 ### Portuguese (Brazil)
